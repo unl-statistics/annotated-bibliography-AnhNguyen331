@@ -9,18 +9,42 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@pattenDisastersStatisticsHumanitarian2025
 
 # References
 
-@ref1
+@ghamisiResponsibleArtificialIntelligence2025
 
-- Summary
+-   Summary
 
-- Reliability and relationship to the topic
+    This paper identifies the ethical and technical risks arising from the convergence of AI and Earth Observation, proposing a multi-dimensional framework to ensure these technologies serve the collective good. The authors evaluate solutions such as bias mitigation, geoprivacy preservation, and AI security to bridge the gap between rapid technological advancement and responsible implementation. By prioritizing geospatial fairness and open science, the research establishes a strategic roadmap for maintaining scientific integrity and public trust in global environmental monitoring.
 
-- Missing pieces
-    - thing 1
+-   Reliability and relationship to the topic:
 
-    - thing 2
+    This paper is highly reliable because it is published in *IEEE Geoscience and Remote Sensing Magazine*, a peer-reviewed journal, and authored by contributors who are IEEE members ranging from student members to senior members and faculty in the geospatial and Earth observation fields. This article is directly related to the topic because it focuses on the use of artificial intelligence in Earth observation and emphasizes the importance of responsible and ethical AI practices to ensure these technologies benefit society and environmental decision-making.
+
+-   Missing pieces
+
+    -   More real-world examples:
+
+        The paper does a good job explaining the idea of responsible AI in Earth observation, but it doesn't include many concrete examples of how these ideas work in real situations. Adding case studies or practical examples would help readers better understanding what responsible AI looks like in actual Earth observation projects and what challenges might come up.
+
+    -   Clearer rules for responsibility and oversight:
+
+        The paper talks a lot about ethical and responsible AI, it is not always clear who is responsible for making sure these principles are followed. More discussion about governance, accountability, and who oversees AI use in Earth observation would make the recommendations easier to apply in practice.
+
+@odubolaAISocialGood2025
+
+-   Summary
+
+    The paper looks at how large language models like GPT can help with crisis and disaster response by analyzing information quickly, support decision-making, and improving coordination during emergencies. It also points out that these tools still have issues, like bias, errors, and lack of transparency, so they need human oversight. Overall, the authors argue that the LLMs are promising for social good, but they have to be used carefully in high-risk situations.
+
+-   Reliability and relationship to the topic
+
+    The paper is reliable because the lead authors are experienced data scientists with strong background in AI and machine learning. Their expertise shows in how they discuss both the technical strengths and the limitations of large language models, rather than presenting them as perfect solution. The article closely relates to the topic by focusing on how AI, especially large language models can be used for social good in crisis management and disaster responsee. It directly connects AI techniques to real-world humanitarian and emergency scenarios.
+
+-   Missing pieces
+
+    -   The paper focuses a lot on what LLMs can to technically, but it doesn't really address whether emergency responders and humanitarian workers would trust or adopt these tools. More discussion about training, usability, and how AI fits into existing workflows would strengthen the paper.
+
+    -   The paper assumes LLMs can generalize across crises, but it does not fully explore how language, culture, or local infrastructure might affect performance. Addressing localization challenges, such as low-resource languages or region-specific data, would make the proposed applications more realistic and inclusive.
