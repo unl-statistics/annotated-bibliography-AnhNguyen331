@@ -1,0 +1,375 @@
+---
+title: "article_outline"
+format: html
+---
+
+# "Disasters, Statistics, and the Humanitarian Sector" Reverse Outline {style="text-align: center;"}
+
+## 1. Introduction
+
+-   Defines the humanitarian sector and its guiding principles.
+-   Narrows the scope to disasters caused by natural hazards.
+-   Introduces the four phases of disaster management (response, recovery, preparedness, mitigation).
+-   Explains how humanitarian action differs from but overlaps with development and peace building.
+-   Positions the article within the Humanitarian–Development–Peace Nexus.
+-   Motivates the need for advanced statistical methods due to data scarcity, urgency, and access constraints.
+-   Outlines the structure of the article and previews Sections 2–4.
+
+## 2. Current Use of Statistics
+
+Purpose: Introduces how statistical methods support decision-making across the disaster management cycle.
+
+### 2.1 Overview
+
+-   Describes the broad role of statistics across the disaster management cycle.
+-   Introduces key data sources (surveys, satellite imagery, mobile phone data).
+-   Emphasizes the shift toward proactive and predictive humanitarian action.
+-   Frames the section as a survey of current statistical practice rather than critique.
+
+### 2.2 Foundations of Humanitarian Analysis
+
+Purpose: Narrows from a broad overview to foundational statistical practices used operationally.
+
+2.2.1 Core sampling and survey implementation approaches
+
+-   Describes how sampling methods are adapted to crisis and displacement settings.
+-   Explains common approaches such as cluster sampling, spatial sampling, and mixed methods.
+-   Notes the role of community-led mapping and nontraditional data sources.
+
+2.2.2 Analytic frameworks
+
+-   Explains how humanitarian data are standardized and translated into priorities.
+-   Introduces frameworks like JIAF that allow comparison across contexts.
+-   Mentions geospatial visualizations as decision-support tools.
+
+2.2.3 Monitoring and evaluation
+
+-   Discusses how organizations measure program impact and effectiveness.
+
+-   Describes the use of statistical models to compare outcomes over time.
+
+-   Notes the importance of data in informing aid allocation decisions.
+
+### 2.3 Earth Observation Data
+
+-   Introduces Earth observation (EO) data as a key data source for humanitarian analysis.
+
+-   Explains different EO sources (satellite, aerial, ground) and sensor types.
+
+-   Notes the importance of open-access satellite data for humanitarian use.
+
+2.3.1 Land cover and land use change
+
+-   Describes how EO data are used to detect environmental change and hazards.
+
+-   Explains applications such as flood, landslide, wildfire, and volcanic activity detection.
+
+-   Notes the increasing use of machine learning and deep learning models.
+
+-   Acknowledges limitations in model performance and data availability in some regions.
+
+2.3.2 Population and demography estimates
+
+-   Emphasizes population data as central to humanitarian decision-making.
+
+-   Describes how population datasets combine EO data with census and modeling.
+
+-   Highlights inaccuracies related to informal settlements and dataset inconsistencies.
+
+-   Notes biases introduced by data sources such as nighttime lights.
+
+2.3.3 Disaster impact estimation
+
+-   Explains how EO data are used to estimate building and agricultural damage.
+
+-   Describes common modeling approaches for damage classification.
+
+-   Highlights limitations in model generalizability and operational performance.
+
+2.3.4 Drone technologies
+
+-   Introduces drones as an emerging EO tool for humanitarian use.
+
+-   Notes regulatory, logistical, and capacity barriers to widespread adoption.
+
+-   Suggests greater potential for preparedness and recovery than immediate response.
+
+### 2.4 Anticipatory Action and Forecast-Based Financing
+
+-   Introduces the shift from reactive to proactive humanitarian action.
+
+-   Defines anticipatory action and forecast-based financing.
+
+-   Explains how statistical trigger models are used to release funding before disasters.
+
+-   Discusses trade-offs involved in choosing trigger metrics (exposure, cost, mortality).
+
+-   Emphasizes the importance of data quality and coordination for effective implementation.
+
+### 2.5 Mobile Phone Positioning Data
+
+-   Introduces mobile phone data as a tool for understanding population behavior during disasters.
+
+-   Notes its expanded use during recent crises such as COVID-19.
+
+2.5.1 Types of data
+
+-   Describes different types of mobile phone data and their spatial and temporal resolution.
+
+-   Compares call detail records, extended detail records, and GPS data.
+
+2.5.2 Population Movement
+
+-   Explains how mobile phone data are used to track displacement and evacuation.
+
+-   Describes contributions from organizations like Flowminder and Meta.
+
+-   Notes the use of statistical and machine learning models for movement inference.
+
+2.5.3 Long-term recovery
+
+-   Describes how mobile phone data can measure rates of return after disasters.
+
+-   Uses examples to show differences in recovery patterns across disasters.
+
+2.5.4 Damage inference
+
+-   Explains how the absence of mobile phone activity can indicate disaster impacts.
+
+-   Notes the use of statistical and machine learning approaches for flood detection.
+
+## 3. Gaps and Issues
+
+-   Shifts the paper from describing current methods to critiquing their limitations.
+
+-   Introduces structural, methodological, and ethical challenges in using statistics in humanitarian work.
+
+### 3.1 Overview
+
+-   Summarizes major weaknesses in current data-driven humanitarian practices.
+
+-   Highlights problems related to data quality, model evaluation, ethics, and sustainability.
+
+-   Frames the section as a discussion of barriers to responsible and effective statistical use.
+
+### 3.2 Primary Data for Disasters
+
+-   Focuses on challenges related to collecting and using primary data.
+
+-   Emphasizes problems with standardization and interoperability across organizations.
+
+3.2.1 Access difficulties
+
+-   Describes barriers to collecting reliable data in disaster-affected areas.
+
+-   Explains how security, logistics, and access limitations affect data quality.
+
+-   Notes the limits of remote sensing in capturing social and economic conditions.
+
+3.2.2 Funding primary data collection
+
+-   Discusses how funding priorities favor new technologies over ground-level data.
+
+-   Argues for a more balanced investment in innovation and primary data collection.
+
+### 3.3 Data Gaps and Biases
+
+-   Introduces persistent gaps and biases in disaster-related data.
+
+-   Explains how these issues affect impact estimation and decision-making.
+
+3.3.1 Disaster impact estimates
+
+-   Explains why disaster impact numbers vary across sources.
+
+-   Highlights political, temporal, and hazard-related reporting biases.
+
+-   Uses disaster databases to illustrate systematic data limitations.
+
+3.3.2 Disaster response data
+
+-   Notes the lack of comprehensive databases on humanitarian responses.
+
+-   Explains how fragmented data limit evaluation of intervention effectiveness.
+
+3.3.3 Satellite image-derived building damage assessment data
+
+-   Describes biases in satellite-based damage datasets.
+
+-   Explains how incomplete coverage leads to overestimation of damage.
+
+### 3.4 Equity and Ethical Concerns
+
+-   Shifts from technical issues to ethical implications of data use.
+
+-   Raises questions about representation, fairness, and responsibility.
+
+3.4.1. Data Representation
+
+-   Explains how marginalized groups are underrepresented in humanitarian data.
+
+-   Uses examples to show how bias affects aid allocation.
+
+3.4.2. Translating Prediction to Action
+
+-   Discusses ethical challenges when forecasts exist but action is limited.
+
+-   Highlights trade-offs in allocating scarce resources.
+
+3.4.3. Funding Transparency
+
+-   Examines bias and lack of transparency in humanitarian funding decisions.
+
+-   Uses IFRC funding as an illustrative example.
+
+3.4.4. Origins of Disaster Modeling
+
+-   Explains how disaster models emerged from insurance industries.
+
+-   Argues that this history shapes current priorities toward economic loss over human outcomes.
+
+### 3.5 Communication Statistics
+
+-   Focuses on challenges in interpreting and communicating statistical results.
+
+-   Emphasizes the role of literacy, review, and translation between experts and practitioners.
+
+3.5.1. Data and Statistical Literacy
+
+-   Discusses limited capacity to interpret complex statistical models.
+
+-   Notes reluctance to communicate uncertainty.
+
+3.5.2. Peer Review
+
+-   Explains the lack of external peer review in humanitarian analytics.
+
+-   Notes institutional barriers to publishing scientific work.
+
+3.5.3. Statistical Brokers
+
+-   Proposes using intermediaries to translate statistics into action.
+
+-   Suggests brokers could reduce bias and improve interpretation.
+
+### 3.6. Outsourcing
+
+-   Describes why organizations outsource statistical work.
+
+-   Highlights risks related to sustainability and institutional learning.
+
+3.6.1. Consultants
+
+-   Explains problems with short-term contracts and knowledge loss.
+
+3.6.2. Large Technology Companies
+
+-   Discusses risks of proprietary tools and short-term corporate engagement.
+
+3.6.3. Universities
+
+-   Explains tension between academic rigor and operational needs.
+
+3.6.4. Hackathons
+
+-   Critiques hackathons as often symbolic and unsustainable.
+
+-   Notes ethical and contextual concerns.4. Future Application
+
+## 4. Future Applications
+
+-   Shifts the paper from current limitations to future opportunities.
+
+-   Frames statistics as a tool for more proactive and effective humanitarian action.
+
+### 4.1. Overview
+
+-   Introduces emerging data sources, methods, and technologies.
+
+-   Emphasizes the potential for faster, more targeted decision-making.
+
+-   Sets up the section as forward-looking rather than evaluative.
+
+### 4.2. Improvements in Data and Availability
+
+-   Argues that better data availability is central to future progress.
+
+-   Discusses moving from static census data to dynamic population systems.
+
+-   Highlights the importance of integrating historical response and recovery data.
+
+-   Introduces new measurement approaches such as excess mortality.
+
+-   Mentions digital Earth twins as a future planning and assessment tool.
+
+### 4.3. Impact and Response Monitoring
+
+-   Focuses on the evolution of early warning systems.
+
+-   Argues for a shift from hazard-based to impact-based alerts.
+
+-   Discusses challenges related to uncertainty, trust, and transparency.
+
+### 4.4. Artificial Intelligence
+
+-   Introduces AI as a major driver of future humanitarian innovation.
+
+-   Positions AI as a way to process complex data and support rapid decisions.
+
+4.4.1. Large Language Models and NLP
+
+-   Describes how LLMs can process unstructured data at scale.
+
+-   Highlights multilingual capabilities and support for reporting and coordination.
+
+-   Notes early integration of LLMs into humanitarian workflows.
+
+4.4.2. Earth Observation Artificial Intelligence
+
+-   Introduces foundational EO models for geospatial analysis.
+
+-   Describes applications such as damage detection and flood mapping.
+
+-   Notes remaining concerns around accuracy and transparency.
+
+4.4.3. AI in Logistics and Supply Chains
+
+-   Explains how AI could improve humanitarian logistics.
+
+-   Focuses on forecasting needs and optimizing delivery routes.
+
+4.4.4. Data Collection in Hard-to-Reach Areas
+
+-   Introduces AI chatbots as a new data collection method.
+
+-   Uses Sudan as an example of experimental deployment.
+
+-   Notes ethical and validation concerns.
+
+## 5. Conclusion
+
+-   Summarizes how statistics are currently used in humanitarian contexts.
+
+-   Reinforces the importance of primary data, EO data, and mobile data.
+
+-   Highlights the role of shared analytical frameworks and anticipatory action.
+
+-   Recaps major challenges discussed earlier in the paper.
+
+-   Emphasizes issues of data gaps, bias, ethics, and limited statistical literacy.
+
+-   Critiques reliance on external actors such as consultants and tech companies.
+
+-   Looks forward to integrating improved data systems and statistical methods.
+
+-   Reiterates the promise of AI and real-time monitoring.
+
+-   Emphasizes that future progress must be ethical, inclusive, and sustainable.
+
+-   Ends with a call for systemic change.
+
+-   Frames humanitarian statistics as not only technical, but also ethical and institutional.
+
+# Potential Major Gaps
+
+Overall, the article is comprehensive and well organized, especially in its coverage of data sources, statistical methods, and emerging technologies in humanitarian contexts. One potential gap is the limited discussion of how these statistical tools are actually used by practitioners on the ground during real-time decision-making. While ethical concerns are mentioned throughout the paper, they could be developed more systematically rather than being revisited in scatter sections. Additionally, future applications focus heavily on technological advances, with less attention to organizational or capacity constraints that may limit their adoption.
