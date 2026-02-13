@@ -1,0 +1,16 @@
+---
+title: "Rhetoric Analysis for Disaster, Statics, or Humanitarian Sector"
+author: "Anh Nguyen"
+format: html
+bibliography: references.bib
+---
+
+In *Disasters, Statistics, and the Humanitarian Sector*, Patten and Bhaby argue that statistics play a central role in how humanitarian organizations respond to disasters [@pattenDisastersStatisticsHumanitarian2025]. Rather than treating data as just numbers, they show how statistics shape decisions about who receives aid, how resources are distributed, and how disaster impacts are measured. The article is structured in a clear and effective way: first explaining how statistics are currently used, then pointing out major gaps and weaknesses, and finally raising ethical concerns about fairness and responsibility.
+
+One strong rhetorical choice is the authors’ use of specific examples to support their claims. Instead of speaking in general terms about “data-driven approaches,” they describe concrete tools like satellite imagery, mobile phone data, and forecast-based financing systems. They also include measurable evidence, such as low model performance scores and the large difference between the official and estimated death tolls after Hurricane Maria. These examples make the argument more convincing because readers can see real-world consequences of statistical limitations.
+
+The article also becomes more critical in Section 3, where the authors shift from explaining how statistics are used to questioning how reliable and fair those systems actually are. They discuss reporting bias in disaster databases, uneven funding distribution, and the under-representation of marginalized groups. The example of funding bias within the IFRC, supported by statistical testing, is especially persuasive because it uses data to reveal inequality within the humanitarian system itself. This strengthens the credibility of their critique.
+
+Another important rhetorical move is the discussion of ethics. When the authors describe the “moral burden of knowing without the capacity to act,” they connect statistical forecasting to real human consequences. This reminds readers that disaster modeling is not just technical work—it affects lives and communities.
+
+Overall, the arguments are clearly organized and supported with strong evidence. By combining practical examples with critical reflection, the authors effectively show that statistics in humanitarian work are powerful but imperfect tools that require transparency, accountability, and careful use.
